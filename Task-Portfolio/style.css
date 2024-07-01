@@ -294,6 +294,9 @@ i:hover{
         flex-direction: column;
         align-items: center;
     }
+    .Btech ,.Inter ,.Secondary,.Primary {
+        width: 100%;
+    }
     .Educations h3 {
         padding-left: 20px;
         width: 100%;
