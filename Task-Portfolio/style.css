@@ -292,7 +292,7 @@ i:hover{
     }
     .Educations {
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
     }
     .Educations h3 {
         padding-left: 20px;
